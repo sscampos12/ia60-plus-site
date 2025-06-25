@@ -7,7 +7,7 @@ import brainIcon from './assets/brain-icon.jpg'
 import elderlyTech1 from './assets/elderly-tech-1.jpeg'
 import elderlyTech2 from './assets/elderly-tech-2.jpeg'
 import elderlyTech3 from './assets/elderly-tech-3.jpeg'
-import './App.css'
+import './Aplicativo.css'
 
 function App() {
   const [timeLeft, setTimeLeft] = useState({
